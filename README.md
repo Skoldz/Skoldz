@@ -30,3 +30,5 @@ Thanks for stopping by, and let's make something amazing together!
 Skoldz/Skoldz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Check out the snake eating my contribution 
+![snake gif](https://github.com/Skoldz/Skoldz/blob/output/github-contribution-grid-snake.gif)
