@@ -16,12 +16,6 @@ As much as I love the adrenaline rush of scientific discoveries and medical marv
 - **It's Challenging**: Every bug is a puzzle waiting to be solved. It keeps the brain sharp and the spirit invigorated.
 - **It's Impactful**: From healthcare apps to data analysis in medical research, coding holds the potential to revolutionize the field I'm deeply passionate about.
 
-## Current Learning Journey 📚💻
-
-- **Languages**: Diving into Python and JavaScript - the Yin and Yang of programming, as I like to call them.
-- **Projects**: Working on a health-related app that aims to make daily well-being tracking a breeze. Stay tuned for updates!
-- **Goals**: To blend my medical science background with tech to innovate in healthcare technology.
-
 ## Let's Connect! 🌏
 
 Whether you're a fellow student, a coding enthusiast, or just someone who loves to chat about science and technology, I'm all ears. Let's share ideas, collaborate on projects, or just have a good old geek-out session about the latest in tech and health.
