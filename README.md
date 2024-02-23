@@ -42,7 +42,8 @@ Thanks for stopping by, and let's make something amazing together!
 </div>
 
 ## Check out the snake eating my contribution 
-<img alt="snake eating my contribution" src="https://raw.githubuser-content.com/Skoldz/Skoldz/output/github-contribution-grid-snake.svg" />
+
+<img alt="snake eating my contribution" src="https://raw.githubusercontent.com/Skoldz/Skoldz/output/github-contribution-grid-snake.svg" />
 
 
 
