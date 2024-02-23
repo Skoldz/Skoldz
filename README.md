@@ -1,6 +1,10 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Skoldz.Skoldz" />
 
-# Hey there, I'm @Skoldz! 👋
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+I'm+@Skoldz!+👋;" />
+  </a>
+</h1>
 
 ## About Me 🌴🔬💻
 
@@ -16,19 +20,33 @@ As much as I love the adrenaline rush of scientific discoveries and medical marv
 - **It's Challenging**: Every bug is a puzzle waiting to be solved. It keeps the brain sharp and the spirit invigorated.
 - **It's Impactful**: From healthcare apps to data analysis in medical research, coding holds the potential to revolutionize the field I'm deeply passionate about.
 
+## My Frameworks tool  
+<div align="center>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,github,r"/>
+</div>
+
 ## Let's Connect! 🌏
 
 Whether you're a fellow student, a coding enthusiast, or just someone who loves to chat about science and technology, I'm all ears. Let's share ideas, collaborate on projects, or just have a good old geek-out session about the latest in tech and health.
 
-- **GitHub**: You're here already! Check out my projects and let's get collaborating.
-- **LinkedIn**: www.linkedin.com/in/david-yang-bb4264181
-
-
 Thanks for stopping by, and let's make something amazing together!
+
+<div align="center">
+<a href="mailto:namchangyang@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+</a>
+<a href="www.linkedin.com/in/david-yang-bb4264181">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+</div>
+
+## Check out the snake eating my contribution 
+<img alt="snake eating my contribution" src="https://raw.githubuser-content.com/Skoldz/Skoldz/output/github-contribution-grid-snake.svg" />
+
+
 
 <!---
 Skoldz/Skoldz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Check out the snake eating my contribution 
-![snake gif](https://github.com/Skoldz/Skoldz/blob/output/github-contribution-grid-snake.gif)
