@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-## About Me 🌴🔬💻
+## About Me 👨‍🎓
 
 Born in the heart-stirring landscapes of New Caledonia and currently soaking up the vibrant culture of Sydney, I'm a curious explorer at heart and a student by trade. I'm navigating the fascinating world of Applied Medical Science at the University of Sydney, diving deep into the mysteries of the human body and how science can be a beacon of hope and innovation in healthcare.
 
@@ -20,7 +20,7 @@ As much as I love the adrenaline rush of scientific discoveries and medical marv
 - **It's Challenging**: Every bug is a puzzle waiting to be solved. It keeps the brain sharp and the spirit invigorated.
 - **It's Impactful**: From healthcare apps to data analysis in medical research, coding holds the potential to revolutionize the field I'm deeply passionate about.
 
-## My Frameworks tool  
+## My Frameworks tool  🛠️
 <div align="center>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,github,r"/>
@@ -41,7 +41,7 @@ Thanks for stopping by, and let's make something amazing together!
 </a>
 </div>
 
-## My stats 
+## My stats 📊
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=Skoldz&count_private=true&theme=react&border_radius=10" alt="streat stats"/>
