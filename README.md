@@ -41,6 +41,14 @@ Thanks for stopping by, and let's make something amazing together!
 </a>
 </div>
 
+## My stats 
+
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com/?user=Skoldz&count_private=true&theme=react&border_radius=10" alt="streat stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Skoldz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="read me stats" />
+   
+</div>
+
 ## Check out the snake eating my contribution 
 
 <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/Skoldz/Skoldz/output/github-contribution-grid-snake.svg" />
