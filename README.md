@@ -23,7 +23,7 @@ As much as I love the adrenaline rush of scientific discoveries and medical marv
 ## My Frameworks tool  🛠️
 <div align="center>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,github,r"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,r,c,github,"/>
 </div>
 
 ## Let's Connect! 🌏
