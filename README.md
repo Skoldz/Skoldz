@@ -52,3 +52,5 @@ Thanks for stopping by, and let's make something amazing together!
 ## Check out the snake eating my contribution 
 
 <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/Skoldz/Skoldz/output/github-contribution-grid-snake.svg" />
+
+
